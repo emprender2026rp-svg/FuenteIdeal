@@ -1,0 +1,14 @@
+{
+  "name": "FuenteIdeal",
+  "short_name": "FuenteIdeal",
+  "description": "Encuentra y prueba la tipografía ideal directamente sobre tu diseño.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#121117",
+  "theme_color": "#17161d",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
+
