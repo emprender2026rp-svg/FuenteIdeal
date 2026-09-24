@@ -6,7 +6,7 @@ FuenteIdeal es una aplicación web para probar las tipografías instaladas en tu
 
 La versión publicada está disponible en:
 
-https://fuente-ideal.emprender2026rp.chatgpt.site
+https://emprender2026rp-svg.github.io/FuenteIdeal/
 
 ## Funciones incluidas en v1.0.0
 
